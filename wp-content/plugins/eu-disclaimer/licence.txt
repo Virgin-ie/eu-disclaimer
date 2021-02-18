@@ -1,0 +1,22 @@
+Informations relatives aux droits d'utilisation de votre plugin 
+ 
+ {eu-disclaimer} est un logiciel gratuit: vous pouvez le redistribuer et/ou le modifier sous les termes de la licence publique général GNU telle que publiée
+ par la Free Software Foundation, soit la version 2 de la licence, soit toute version ultérieur.
+ {eu-disclaimer} est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE; sans même la garantie implicite de QUALITE MARCHANDE ou ADAPTATION
+ A UN USAGE PARTICULIER. Voir le GNU General Public Licence pour plus de détails.
+ Vous devriez avoir reçu une copie de la licence publique général GNU avec {eu-disclaimer}. Sinon, consultez {http://www.gnu.org/licenses/gpl-3.0.html}.
+
+This file is part of eu-disclaimer
+ 
+ eu-disclaimer is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ eu-disclaimer is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>. 

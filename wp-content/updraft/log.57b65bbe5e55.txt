@@ -1,0 +1,437 @@
+0000.001 (0) Opened log file at time: Fri, 29 Jan 2021 09:12:04 +0000 on http://localhost/vapobar
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT LAPTOP-NAS7P6K7 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 53.8M | 50M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 406905.6 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.010 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.017 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1611738209, seconds_ago=173315)
+0000.022 (0) Set semaphore last lock (fd) time to 2021-01-29 09:12:04
+0000.024 (0) Semaphore lock (fd) complete
+0000.030 (0) Backup run: resumption=0, nonce=57b65bbe5e55, file_nonce=57b65bbe5e55 begun at=1611911524 (0s ago), job type=backup
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1611911824) in case this run gets aborted
+0000.051 (0) Checking if we have a zip executable available
+0000.055 (0) Creation of backups of directories: beginning
+0000.062 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.326 (0) Total entities for the zip file: 815 directories, 4540 files (0 skipped as non-modified), 52.6 MB
+0002.390 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.443 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.490 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.541 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.589 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.632 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.681 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.730 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.773 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.781 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.3 MB, 914 (914) files added so far); re-opening (prior size: 0 KB)
+0005.063 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1000 files added (on-disk size: 6893 KB)
+0005.109 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1100 files added (on-disk size: 6893 KB)
+0005.153 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1200 files added (on-disk size: 6893 KB)
+0005.197 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1300 files added (on-disk size: 6893 KB)
+0005.243 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1400 files added (on-disk size: 6893 KB)
+0005.288 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1500 files added (on-disk size: 6893 KB)
+0005.332 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1600 files added (on-disk size: 6893 KB)
+0005.385 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1700 files added (on-disk size: 6893 KB)
+0005.428 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1800 files added (on-disk size: 6893 KB)
+0005.475 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 1900 files added (on-disk size: 6893 KB)
+0005.484 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10 MB, 4540 files batched, 1001 (1915) added so far); re-opening (prior size: 6893 KB)
+0006.548 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2000 files added (on-disk size: 9949.3 KB)
+0006.605 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2100 files added (on-disk size: 9949.3 KB)
+0006.664 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2200 files added (on-disk size: 9949.3 KB)
+0006.729 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2300 files added (on-disk size: 9949.3 KB)
+0006.785 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2400 files added (on-disk size: 9949.3 KB)
+0006.840 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2500 files added (on-disk size: 9949.3 KB)
+0006.894 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2600 files added (on-disk size: 9949.3 KB)
+0006.943 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2700 files added (on-disk size: 9949.3 KB)
+0007.002 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2800 files added (on-disk size: 9949.3 KB)
+0007.058 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 2900 files added (on-disk size: 9949.3 KB)
+0007.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.6 MB, 4540 files batched, 1001 (2916) added so far); re-opening (prior size: 9949.3 KB)
+0008.068 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3000 files added (on-disk size: 12979.2 KB)
+0008.118 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3100 files added (on-disk size: 12979.2 KB)
+0008.162 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3200 files added (on-disk size: 12979.2 KB)
+0008.215 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3300 files added (on-disk size: 12979.2 KB)
+0008.276 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3400 files added (on-disk size: 12979.2 KB)
+0008.334 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3500 files added (on-disk size: 12979.2 KB)
+0008.390 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3600 files added (on-disk size: 12979.2 KB)
+0008.439 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3700 files added (on-disk size: 12979.2 KB)
+0008.487 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3800 files added (on-disk size: 12979.2 KB)
+0008.533 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 3900 files added (on-disk size: 12979.2 KB)
+0008.542 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.7 MB, 4540 files batched, 1001 (3917) added so far); re-opening (prior size: 12979.2 KB)
+0009.574 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4000 files added (on-disk size: 15345.4 KB)
+0009.620 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4100 files added (on-disk size: 15345.4 KB)
+0009.664 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4200 files added (on-disk size: 15345.4 KB)
+0009.722 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4300 files added (on-disk size: 15345.4 KB)
+0009.775 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4400 files added (on-disk size: 15345.4 KB)
+0009.830 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip.tmp: 4500 files added (on-disk size: 15345.4 KB)
+0010.519 (0) Created plugins zip (0) - 16017 KB in 10.5 s (1532.4 KB/s) (sha1: ca6e2d5db842d424e891f2b321fd17b07d5c6702, sha256: 19c1d8f0b7bc7f20649dc47b153e1fb9f3461c166c8b8307d2b885683777f120)
+0010.525 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.603 (0) Total entities for the zip file: 38 directories, 185 files (0 skipped as non-modified), 5.6 MB
+0010.656 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.167 (0) Created themes zip (0) - 3497.7 KB in 0.6 s (5470.8 KB/s) (sha1: 738e29b211f84b5b86abd57cb4a086b60dec92f5, sha256: a7f09a3f0066aba48b64d4b24c42508208083824d49f3cf032073b601b5c0088)
+0011.173 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0011.174 (0) Looking for candidates to backup in: C:\xampp\htdocs\vapobar/wp-content/uploads
+0011.176 (0) finding files: 2021: adding to list (1)
+0011.177 (0) finding files: wc-logs: adding to list (2)
+0011.178 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (3)
+0011.179 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0011.180 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (5)
+0011.181 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (6)
+0011.183 (0) finding files: woocommerce-placeholder-324x324.png: adding to list (7)
+0011.184 (0) finding files: woocommerce-placeholder-416x416.png: adding to list (8)
+0011.185 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (9)
+0011.186 (0) finding files: woocommerce-placeholder.png: adding to list (10)
+0011.188 (0) finding files: woocommerce_uploads: adding to list (11)
+0011.189 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0011.211 (0) Total entities for the zip file: 4 directories, 39 files (0 skipped as non-modified), 1.1 MB
+0011.270 (0) Created uploads zip (0) - 1166.6 KB in 0.1 s (15051.4 KB/s) (sha1: 3d8b1bb336de7c64d9e1fd971ffdbd2c41d674ce, sha256: 7906267be1183f4bc21553419dde979068fe300a9092bdf8fedf4fa279bec54c)
+0011.275 (0) Beginning backup of other directories found in the content directory (index: 0)
+0011.277 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0011.278 (0) Looking for candidates to backup in: C:\xampp\htdocs\vapobar/wp-content
+0011.280 (0) finding files: index.php: adding to list (1)
+0011.282 (0) finding files: languages: adding to list (2)
+0011.283 (0) finding files: plugins: skipping: this is the plugins directory
+0011.285 (0) finding files: themes: skipping: this is the themes directory
+0011.286 (0) finding files: updraft: skipping: this is the updraft directory
+0011.288 (0) finding files: upgrade: skipping: excluded by options
+0011.289 (0) finding files: uploads: skipping: this is the uploads directory
+0011.412 (0) Total entities for the zip file: 3 directories, 372 files (0 skipped as non-modified), 5.5 MB
+0011.462 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.516 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.562 (0) Zip: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.222 (0) Created others zip (0) - 1632.7 KB in 0.9 s (1757.9 KB/s) (sha1: 77aebafe06fb5bae7d4bbf44192032773c056b47, sha256: 52bc91a017fa01731e0f0f6280fe8084efe9df7e4239bad072fef8813eb8d5e9)
+0012.231 (0) Saving backup status to database (elements: 8)
+0012.235 (0) Beginning creation of database dump (WordPress DB)
+0012.237 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0012.273 (0) Table va_options: Total expected rows (approximate): 445
+0012.333 (0) Table va_options: Rows added in this batch (next record: 1911): 449 (uncompressed bytes in this segment=927854) in 0.06 seconds
+0012.343 (0) Table va_options: finishing file(s) (2, 172.8 KB)
+0012.349 (0) Table va_users: Total expected rows (approximate): 0
+0012.355 (0) Table va_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1369) in 0.00 seconds
+0012.364 (0) Table va_users: finishing file(s) (2, 0.6 KB)
+0012.369 (0) Table va_usermeta: Total expected rows (approximate): 49
+0012.396 (0) Table va_usermeta: Rows added in this batch (next record: 52): 48 (uncompressed bytes in this segment=3120) in 0.03 seconds
+0012.409 (0) Table va_usermeta: finishing file(s) (2, 1.4 KB)
+0012.416 (0) Table va_actionscheduler_actions: Total expected rows (approximate): 65
+0012.428 (0) Table va_actionscheduler_actions: Rows added in this batch (next record: 71): 66 (uncompressed bytes in this segment=22803) in 0.01 seconds
+0012.439 (0) Table va_actionscheduler_actions: finishing file(s) (2, 2.6 KB)
+0012.445 (0) Table va_actionscheduler_claims: Total expected rows (approximate): 0
+0012.450 (0) Table va_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.00 seconds
+0012.460 (0) Table va_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0012.471 (0) Table va_actionscheduler_groups: Total expected rows (approximate): 0
+0012.477 (0) Table va_actionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=681) in 0.00 seconds
+0012.488 (0) Table va_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0012.498 (0) Table va_actionscheduler_logs: Total expected rows (approximate): 198
+0012.509 (0) Table va_actionscheduler_logs: Rows added in this batch (next record: 198): 198 (uncompressed bytes in this segment=17624) in 0.01 seconds
+0012.518 (0) Table va_actionscheduler_logs: finishing file(s) (2, 2.5 KB)
+0012.527 (0) Table va_commentmeta: Total expected rows (approximate): 2
+0012.533 (0) Table va_commentmeta: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=950) in 0.00 seconds
+0012.543 (0) Table va_commentmeta: finishing file(s) (2, 0.5 KB)
+0012.548 (0) Table va_comments: Total expected rows (approximate): 1
+0012.555 (0) Table va_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2236) in 0.01 seconds
+0012.563 (0) Table va_comments: finishing file(s) (2, 0.8 KB)
+0012.571 (0) Table va_links: Total expected rows (approximate): 0
+0012.577 (0) Table va_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.00 seconds
+0012.587 (0) Table va_links: finishing file(s) (2, 0.5 KB)
+0012.594 (0) Table va_postmeta: Total expected rows (approximate): 159
+0012.601 (0) Table va_postmeta: Rows added in this batch (next record: 233): 159 (uncompressed bytes in this segment=14783) in 0.01 seconds
+0012.612 (0) Table va_postmeta: finishing file(s) (2, 2.9 KB)
+0012.618 (0) Table va_posts: Total expected rows (approximate): 66
+0012.634 (0) Table va_posts: Rows added in this batch (next record: 79): 64 (uncompressed bytes in this segment=139156) in 0.01 seconds
+0012.645 (0) Table va_posts: finishing file(s) (2, 14.9 KB)
+0012.651 (0) Table va_term_relationships: Total expected rows (approximate): 18
+0012.659 (0) Table va_term_relationships: Rows added in this batch (next record: 100000): 18 (uncompressed bytes in this segment=928) in 0.01 seconds
+0012.667 (0) Table va_term_relationships: finishing file(s) (2, 0.4 KB)
+0012.672 (0) Table va_term_taxonomy: Total expected rows (approximate): 23
+0012.680 (0) Table va_term_taxonomy: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1741) in 0.01 seconds
+0012.696 (0) Table va_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0012.712 (0) Table va_termmeta: Total expected rows (approximate): 8
+0012.718 (0) Table va_termmeta: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1024) in 0.00 seconds
+0012.727 (0) Table va_termmeta: finishing file(s) (2, 0.5 KB)
+0012.732 (0) Table va_terms: Total expected rows (approximate): 18
+0012.739 (0) Table va_terms: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1517) in 0.00 seconds
+0012.747 (0) Table va_terms: finishing file(s) (2, 0.7 KB)
+0012.756 (0) Table va_wc_category_lookup: Total expected rows (approximate): 0
+0012.762 (0) Table va_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=585) in 0.00 seconds
+0012.771 (0) Table va_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0012.780 (0) Table va_wc_product_meta_lookup: Total expected rows (approximate): 4
+0012.787 (0) Table va_wc_product_meta_lookup: Rows added in this batch (next record: 35): 4 (uncompressed bytes in this segment=1728) in 0.01 seconds
+0012.796 (0) Table va_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0012.805 (0) Table va_wc_reserved_stock: Total expected rows (approximate): 0
+0012.810 (0) Table va_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=659) in 0.00 seconds
+0012.821 (0) Table va_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0012.830 (0) Table va_wc_tax_rate_classes: Total expected rows (approximate): 2
+0012.837 (0) Table va_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=800) in 0.01 seconds
+0012.847 (0) Table va_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0012.853 (0) Table va_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0012.858 (0) Table va_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.00 seconds
+0012.868 (0) Table va_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0012.876 (0) Table va_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0012.882 (0) Table va_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=799) in 0.00 seconds
+0012.891 (0) Table va_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0012.900 (0) Table va_disclaimer_options: Total expected rows (approximate): 0
+0012.906 (0) Table va_disclaimer_options: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=810) in 0.01 seconds
+0012.915 (0) Table va_disclaimer_options: finishing file(s) (2, 0.5 KB)
+0012.925 (0) Table va_wc_admin_note_actions: Total expected rows (approximate): 16
+0012.932 (0) Table va_wc_admin_note_actions: Rows added in this batch (next record: 839): 16 (uncompressed bytes in this segment=3078) in 0.01 seconds
+0012.942 (0) Table va_wc_admin_note_actions: finishing file(s) (2, 1.1 KB)
+0012.948 (0) Table va_wc_admin_notes: Total expected rows (approximate): 16
+0012.955 (0) Table va_wc_admin_notes: Rows added in this batch (next record: 16): 16 (uncompressed bytes in this segment=10046) in 0.01 seconds
+0012.965 (0) Table va_wc_admin_notes: finishing file(s) (2, 3 KB)
+0012.975 (0) Table va_wc_customer_lookup: Total expected rows (approximate): 0
+0012.981 (0) Table va_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1230) in 0.00 seconds
+0012.992 (0) Table va_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0013.001 (0) Table va_wc_download_log: Total expected rows (approximate): 0
+0013.007 (0) Table va_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=918) in 0.00 seconds
+0013.015 (0) Table va_wc_download_log: finishing file(s) (2, 0.5 KB)
+0013.024 (0) Table va_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0013.030 (0) Table va_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+0013.045 (0) Table va_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0013.055 (0) Table va_wc_order_product_lookup: Total expected rows (approximate): 0
+0013.062 (0) Table va_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1211) in 0.00 seconds
+0013.072 (0) Table va_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0013.080 (0) Table va_wc_order_stats: Total expected rows (approximate): 0
+0013.086 (0) Table va_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1102) in 0.00 seconds
+0013.095 (0) Table va_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0013.103 (0) Table va_wc_order_tax_lookup: Total expected rows (approximate): 0
+0013.109 (0) Table va_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=789) in 0.00 seconds
+0013.119 (0) Table va_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0013.129 (0) Table va_wc_webhooks: Total expected rows (approximate): 0
+0013.134 (0) Table va_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1202) in 0.00 seconds
+0013.144 (0) Table va_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0013.152 (0) Table va_woocommerce_api_keys: Total expected rows (approximate): 0
+0013.158 (0) Table va_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1031) in 0.00 seconds
+0013.169 (0) Table va_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0013.177 (0) Table va_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0013.183 (0) Table va_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=939) in 0.00 seconds
+0013.192 (0) Table va_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0013.200 (0) Table va_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0013.206 (0) Table va_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1514) in 0.00 seconds
+0013.214 (0) Table va_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0013.223 (0) Table va_woocommerce_log: Total expected rows (approximate): 0
+0013.230 (0) Table va_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=719) in 0.00 seconds
+0013.239 (0) Table va_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0013.246 (0) Table va_woocommerce_order_items: Total expected rows (approximate): 0
+0013.252 (0) Table va_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=727) in 0.00 seconds
+0013.263 (0) Table va_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0013.272 (0) Table va_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0013.278 (0) Table va_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=821) in 0.00 seconds
+0013.287 (0) Table va_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0013.294 (0) Table va_woocommerce_sessions: Total expected rows (approximate): 1
+0013.300 (0) Table va_woocommerce_sessions: Rows added in this batch (next record: 17): 1 (uncompressed bytes in this segment=2152) in 0.00 seconds
+0013.310 (0) Table va_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0013.319 (0) Table va_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0013.325 (0) Table va_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=862) in 0.00 seconds
+0013.336 (0) Table va_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0013.346 (0) Table va_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0013.352 (0) Table va_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=765) in 0.00 seconds
+0013.362 (0) Table va_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0013.372 (0) Table va_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0013.378 (0) Table va_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0013.388 (0) Table va_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0013.399 (0) Table va_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0013.407 (0) Table va_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.01 seconds
+0013.417 (0) Table va_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0013.427 (0) Table va_woocommerce_tax_rates: Total expected rows (approximate): 0
+0013.433 (0) Table va_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1273) in 0.00 seconds
+0013.444 (0) Table va_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0013.447 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_options.table.tmpr1912.gz (1/44): adding to final database dump
+0013.486 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_options.table.gz (2/44): adding to final database dump
+0013.489 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_users.table.tmpr2.gz (3/44): adding to final database dump
+0013.490 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_users.table.gz (4/44): adding to final database dump
+0013.491 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_usermeta.table.tmpr53.gz (5/44): adding to final database dump
+0013.493 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_usermeta.table.gz (6/44): adding to final database dump
+0013.494 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_actions.table.tmpr72.gz (7/44): adding to final database dump
+0013.497 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_actions.table.gz (8/44): adding to final database dump
+0013.498 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_claims.table.tmpr0.gz (9/44): adding to final database dump
+0013.500 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_claims.table.gz (10/44): adding to final database dump
+0013.501 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_groups.table.tmpr2.gz (11/44): adding to final database dump
+0013.504 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_groups.table.gz (12/44): adding to final database dump
+0013.506 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_logs.table.tmpr199.gz (13/44): adding to final database dump
+0013.508 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_actionscheduler_logs.table.gz (14/44): adding to final database dump
+0013.510 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_commentmeta.table.tmpr4.gz (15/44): adding to final database dump
+0013.511 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_commentmeta.table.gz (16/44): adding to final database dump
+0013.513 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_comments.table.tmpr2.gz (17/44): adding to final database dump
+0013.515 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_comments.table.gz (18/44): adding to final database dump
+0013.516 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_links.table.tmpr0.gz (19/44): adding to final database dump
+0013.518 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_links.table.gz (20/44): adding to final database dump
+0013.520 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_postmeta.table.tmpr234.gz (21/44): adding to final database dump
+0013.523 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_postmeta.table.gz (22/44): adding to final database dump
+0013.524 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_posts.table.tmpr80.gz (23/44): adding to final database dump
+0013.529 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_posts.table.gz (24/44): adding to final database dump
+0013.530 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_term_relationships.table.tmpr100001.gz (25/44): adding to final database dump
+0013.532 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_term_relationships.table.gz (26/44): adding to final database dump
+0013.534 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_term_taxonomy.table.tmpr24.gz (27/44): adding to final database dump
+0013.536 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_term_taxonomy.table.gz (28/44): adding to final database dump
+0013.539 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_termmeta.table.tmpr10.gz (29/44): adding to final database dump
+0013.541 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_termmeta.table.gz (30/44): adding to final database dump
+0013.542 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_terms.table.tmpr24.gz (31/44): adding to final database dump
+0013.544 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_terms.table.gz (32/44): adding to final database dump
+0013.546 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_category_lookup.table.tmpr1001.gz (33/44): adding to final database dump
+0013.547 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_category_lookup.table.gz (34/44): adding to final database dump
+0013.549 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_product_meta_lookup.table.tmpr36.gz (35/44): adding to final database dump
+0013.551 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_product_meta_lookup.table.gz (36/44): adding to final database dump
+0013.552 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_reserved_stock.table.tmpr1.gz (37/44): adding to final database dump
+0013.555 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_reserved_stock.table.gz (38/44): adding to final database dump
+0013.557 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_tax_rate_classes.table.tmpr3.gz (39/44): adding to final database dump
+0013.558 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_tax_rate_classes.table.gz (40/44): adding to final database dump
+0013.560 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_order_itemmeta.table.tmpr0.gz (41/44): adding to final database dump
+0013.561 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_order_itemmeta.table.gz (42/44): adding to final database dump
+0013.563 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/44): adding to final database dump
+0013.564 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_payment_tokenmeta.table.gz (44/44): adding to final database dump
+0013.566 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_disclaimer_options.table.tmpr2.gz (45/44): adding to final database dump
+0013.567 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_disclaimer_options.table.gz (46/44): adding to final database dump
+0013.569 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_admin_note_actions.table.tmpr840.gz (47/44): adding to final database dump
+0013.571 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_admin_note_actions.table.gz (48/44): adding to final database dump
+0013.573 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_admin_notes.table.tmpr17.gz (49/44): adding to final database dump
+0013.575 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_admin_notes.table.gz (50/44): adding to final database dump
+0013.576 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_customer_lookup.table.tmpr0.gz (51/44): adding to final database dump
+0013.578 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_customer_lookup.table.gz (52/44): adding to final database dump
+0013.580 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_download_log.table.tmpr0.gz (53/44): adding to final database dump
+0013.581 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_download_log.table.gz (54/44): adding to final database dump
+0013.583 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_coupon_lookup.table.tmpr1.gz (55/44): adding to final database dump
+0013.585 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_coupon_lookup.table.gz (56/44): adding to final database dump
+0013.587 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_product_lookup.table.tmpr0.gz (57/44): adding to final database dump
+0013.589 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_product_lookup.table.gz (58/44): adding to final database dump
+0013.591 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_stats.table.tmpr0.gz (59/44): adding to final database dump
+0013.592 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_stats.table.gz (60/44): adding to final database dump
+0013.594 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_tax_lookup.table.tmpr1.gz (61/44): adding to final database dump
+0013.596 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_order_tax_lookup.table.gz (62/44): adding to final database dump
+0013.598 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_webhooks.table.tmpr0.gz (63/44): adding to final database dump
+0013.599 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_wc_webhooks.table.gz (64/44): adding to final database dump
+0013.601 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_api_keys.table.tmpr0.gz (65/44): adding to final database dump
+0013.603 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_api_keys.table.gz (66/44): adding to final database dump
+0013.606 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_attribute_taxonomies.table.tmpr0.gz (67/44): adding to final database dump
+0013.608 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_attribute_taxonomies.table.gz (68/44): adding to final database dump
+0013.610 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_downloadable_product_permissions.table.tmpr0.gz (69/44): adding to final database dump
+0013.612 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_downloadable_product_permissions.table.gz (70/44): adding to final database dump
+0013.614 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_log.table.tmpr0.gz (71/44): adding to final database dump
+0013.615 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_log.table.gz (72/44): adding to final database dump
+0013.617 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_order_items.table.tmpr0.gz (73/44): adding to final database dump
+0013.619 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_order_items.table.gz (74/44): adding to final database dump
+0013.621 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_payment_tokens.table.tmpr0.gz (75/44): adding to final database dump
+0013.623 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_payment_tokens.table.gz (76/44): adding to final database dump
+0013.625 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_sessions.table.tmpr18.gz (77/44): adding to final database dump
+0013.627 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_sessions.table.gz (78/44): adding to final database dump
+0013.628 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zone_locations.table.tmpr0.gz (79/44): adding to final database dump
+0013.630 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zone_locations.table.gz (80/44): adding to final database dump
+0013.632 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zone_methods.table.tmpr0.gz (81/44): adding to final database dump
+0013.634 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zone_methods.table.gz (82/44): adding to final database dump
+0013.636 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zones.table.tmpr0.gz (83/44): adding to final database dump
+0013.638 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_shipping_zones.table.gz (84/44): adding to final database dump
+0013.640 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_tax_rate_locations.table.tmpr0.gz (85/44): adding to final database dump
+0013.642 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_tax_rate_locations.table.gz (86/44): adding to final database dump
+0013.644 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_tax_rates.table.tmpr0.gz (87/44): adding to final database dump
+0013.645 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db-table-va_woocommerce_tax_rates.table.gz (88/44): adding to final database dump
+0013.662 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz: finished writing out complete database file (176 KB)
+0013.690 (0) Total database tables backed up: 44 (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz, size: 209775, sha1: 954bf523edf2ab1931fce23779f19cfa9ba8eeb5, sha256: e4bfb8d9e7dfeb4b85d6133b711d32fdbca49da7424e776571fa057f417101f7)
+0013.699 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0013.701 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0013.703 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0013.705 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip: others: This file has not yet been successfully uploaded: will queue
+0013.707 (0) backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz: db: This file has not yet been successfully uploaded: will queue
+0013.708 (0) Saving backup history. Total backup size: 22 MB
+0013.712 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0013.718 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0013.721 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-5b21790ed911c8bdc53a804f01b1468e)
+0013.723 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0013.742 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0014.205 (0) Dropbox: quota usage: used=112 MB, total=2304 MB, available=2192 MB
+0014.206 (0) Dropbox: Attempt to upload: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip to: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip
+0025.145 (0) Dropbox chunked upload: 6.4 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 1048576, 1024 KB)
+0037.439 (0) Dropbox chunked upload: 12.8 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 2097152, 1024 KB)
+0049.782 (0) Dropbox chunked upload: 19.2 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 3145728, 1024 KB)
+0060.841 (0) Dropbox chunked upload: 25.6 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 4194304, 1024 KB)
+0072.700 (0) Dropbox chunked upload: 32 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 5242880, 1024 KB)
+0083.666 (0) Dropbox chunked upload: 38.4 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 6291456, 1024 KB)
+0094.847 (0) Dropbox chunked upload: 44.8 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 7340032, 1024 KB)
+0105.642 (0) Dropbox chunked upload: 51.1 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 8388608, 1024 KB)
+0116.490 (0) Dropbox chunked upload: 57.5 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 9437184, 1024 KB)
+0127.525 (0) Dropbox chunked upload: 63.9 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 10485760, 1024 KB)
+0139.102 (0) Dropbox chunked upload: 70.3 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 11534336, 1024 KB)
+0150.038 (0) Dropbox chunked upload: 76.7 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 12582912, 1024 KB)
+0161.229 (0) Dropbox chunked upload: 83.1 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 13631488, 1024 KB)
+0172.502 (0) Dropbox chunked upload: 89.5 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 14680064, 1024 KB)
+0184.355 (0) Dropbox chunked upload: 95.9 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 15728640, 1024 KB)
+0192.027 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAG7PUOVCZB_FoA, 16401370, 1024 KB)
+0194.141 (0) Recording as successfully uploaded: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip
+0194.146 (0) Deleting local file: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip: OK
+0194.148 (0) Dropbox: File upload success (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-plugins.zip): 16016 KB in 179s (89 KB/s)
+0194.699 (0) Dropbox: quota usage: used=127.6 MB, total=2304 MB, available=2176.4 MB
+0194.706 (0) Dropbox: Attempt to upload: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip to: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip
+0205.467 (0) Dropbox chunked upload: 29.3 % uploaded (AAAAAAAAAG9i-aCQB8kuNA, 1048576, 1024 KB)
+0217.601 (0) Dropbox chunked upload: 58.6 % uploaded (AAAAAAAAAG9i-aCQB8kuNA, 2097152, 1024 KB)
+0228.796 (0) Dropbox chunked upload: 87.8 % uploaded (AAAAAAAAAG9i-aCQB8kuNA, 3145728, 1024 KB)
+0234.467 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAG9i-aCQB8kuNA, 3581623, 1024 KB)
+0236.389 (0) Recording as successfully uploaded: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip
+0236.393 (0) Deleting local file: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip: OK
+0236.394 (0) Dropbox: File upload success (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-themes.zip): 3497 KB in 41s (83 KB/s)
+0236.822 (0) Dropbox: quota usage: used=131 MB, total=2304 MB, available=2173 MB
+0236.829 (0) Dropbox: Attempt to upload: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip to: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip
+0247.664 (0) Dropbox chunked upload: 87.8 % uploaded (AAAAAAAAAHDgOTD6VcuKCQ, 1048576, 1024 KB)
+0249.987 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAHDgOTD6VcuKCQ, 1194590, 1024 KB)
+0251.429 (0) Recording as successfully uploaded: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip
+0251.433 (0) Deleting local file: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip: OK
+0251.434 (0) Dropbox: File upload success (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-uploads.zip): 1166 KB in 14s (79 KB/s)
+0251.862 (0) Dropbox: quota usage: used=132.2 MB, total=2304 MB, available=2171.8 MB
+0251.865 (0) Dropbox: Attempt to upload: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip to: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip
+0263.557 (0) The scheduled resumption is within 45 seconds - will reschedule
+0263.560 (0) Rescheduling resumption 1: moving to 345 seconds from now (1611912132)
+0263.564 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0263.565 (0) Dropbox chunked upload: 62.7 % uploaded (AAAAAAAAAHH9O2ZwGVlWmQ, 1048576, 1024 KB)
+0271.037 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAHH9O2ZwGVlWmQ, 1671932, 1024 KB)
+0272.978 (0) Recording as successfully uploaded: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip
+0272.986 (0) Deleting local file: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip: OK
+0272.988 (0) Dropbox: File upload success (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-others.zip): 1632 KB in 21s (77 KB/s)
+0273.472 (0) Dropbox: quota usage: used=133.8 MB, total=2304 MB, available=2170.2 MB
+0273.479 (0) Dropbox: Attempt to upload: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz to: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz
+0277.114 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAHLtvmiQVRqH1w, 209775, 1024 KB)
+0278.618 (0) Recording as successfully uploaded: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz
+0278.628 (0) Deleting local file: backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz: OK
+0278.629 (0) Dropbox: File upload success (backup_2021-01-29-1012_VapoBar_57b65bbe5e55-db.gz): 204 KB in 5s (39 KB/s)
+0278.636 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0278.638 (0) Number of backup sets in history: 3; groups (db): 1
+0278.639 (0) Examining (for databases) backup set with group_id=0, nonce=57b65bbe5e55, datestamp=1611911524 (Jan 29 2021 09:12:04)
+0278.640 (0) This backup set is the backup set just made, so will not be deleted.
+0278.640 (0) Examining (for databases) backup set with group_id=0, nonce=b4ae90b6f2d2, datestamp=1611738209 (Jan 27 2021 09:03:29)
+0278.640 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0278.641 (0) Examining (for databases) backup set with group_id=0, nonce=50e3cae6c554, datestamp=1611653289 (Jan 26 2021 09:28:09)
+0278.641 (0) 1611653289: db: this set includes a database (backup_2021-01-26-1028_VapoBar_50e3cae6c554-db.gz); db count is now 2
+0278.641 (0) 1611653289: db: over retain limit (2); will delete this database
+0278.642 (0) Delete file: backup_2021-01-26-1028_VapoBar_50e3cae6c554-db.gz, service=dropbox
+0278.644 (0) Dropbox: request deletion: backup_2021-01-26-1028_VapoBar_50e3cae6c554-db.gz
+0279.662 (0) Dropbox: deletion succeeded
+0279.670 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0279.671 (0) Number of backup sets in history: 3; groups (files): 1
+0279.672 (0) Examining (for files) backup set with nonce=57b65bbe5e55, datestamp=1611911524 (Jan 29 2021 09:12:04)
+0279.672 (0) This backup set is the backup set just made, so will not be deleted.
+0279.673 (0) This backup set is the backup set just made, so will not be deleted.
+0279.674 (0) This backup set is the backup set just made, so will not be deleted.
+0279.674 (0) This backup set is the backup set just made, so will not be deleted.
+0279.674 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0279.675 (0) Examining (for files) backup set with nonce=b4ae90b6f2d2, datestamp=1611738209 (Jan 27 2021 09:03:29)
+0279.675 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0279.675 (0) Examining (for files) backup set with nonce=50e3cae6c554, datestamp=1611653289 (Jan 26 2021 09:28:09)
+0279.675 (0) plugins: over retain limit (2); will delete this file entity
+0279.675 (0) themes: over retain limit (2); will delete this file entity
+0279.675 (0) uploads: over retain limit (2); will delete this file entity
+0279.675 (0) others: over retain limit (2); will delete this file entity
+0279.675 (0) Delete file: backup_2021-01-26-1028_VapoBar_50e3cae6c554-plugins.zip, service=dropbox
+0279.676 (0) Delete file: backup_2021-01-26-1028_VapoBar_50e3cae6c554-themes.zip, service=dropbox
+0279.677 (0) Delete file: backup_2021-01-26-1028_VapoBar_50e3cae6c554-uploads.zip, service=dropbox
+0279.678 (0) Delete file: backup_2021-01-26-1028_VapoBar_50e3cae6c554-others.zip, service=dropbox
+0279.680 (0) Dropbox: request deletion: backup_2021-01-26-1028_VapoBar_50e3cae6c554-plugins.zip
+0280.506 (0) Dropbox: deletion succeeded
+0280.513 (0) Dropbox: request deletion: backup_2021-01-26-1028_VapoBar_50e3cae6c554-themes.zip
+0281.585 (0) Dropbox: deletion succeeded
+0281.586 (0) Dropbox: request deletion: backup_2021-01-26-1028_VapoBar_50e3cae6c554-uploads.zip
+0283.361 (0) Dropbox: deletion succeeded
+0283.362 (0) Dropbox: request deletion: backup_2021-01-26-1028_VapoBar_50e3cae6c554-others.zip
+0284.235 (0) Dropbox: deletion succeeded
+0284.238 (0) This backup set is now empty; will remove from history
+0284.241 (0) Deleting log file (log.50e3cae6c554.txt)
+0284.243 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0284.248 (0) Resume backup (57b65bbe5e55, 0): finish run
+0284.252 (0) Decremented the semaphore (fd) by 1
+0284.254 (0) Semaphore (fd) unlocked
+0284.255 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0284.261 (0) The backup apparently succeeded and is now complete
+0284.262 (0) No email will/can be sent - the user has not configured an email address.
+0284.263 (0) La sauvegarde a apparemment réussi et est maintenant terminée
